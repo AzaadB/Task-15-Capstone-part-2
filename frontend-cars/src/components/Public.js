@@ -7,17 +7,17 @@ const Public = () => {
     <section className="public">
       <header>
         <h1>
-          Welcome to <span className="nowrap">Pete Car Notes</span>
+          Welcome to <span className="nowrap">Zany Car Notes</span>
         </h1>
       </header>
       <main className="public__main">
         <p>
-          Located in Beautiful Downtown Foo City, Pete Car Notes provides a
+          Located in Beautiful Downtown Foo City, Zany Car Notes provides a
           trained staff ready to meet your car information needs.
         </p>
         <address className="public__addr">
           <br />
-          Pete Car Notes
+          Zany Car Notes
           <br />
           <br />
           555 Foo Drive
@@ -29,10 +29,10 @@ const Public = () => {
           <a href="tel:+15555555555">(345) 345-9855</a>
         </address>
         <br />
-        <p>Owner: Pete Gulaksi</p>
+        <p>Owner: Zany Gulaksi</p>
       </main>
       <footer>
-        <Link to="/login">Employee Login</Link>
+        <Link to="/login">Login</Link>
       </footer>
     </section>
   );
