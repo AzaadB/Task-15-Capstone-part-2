@@ -91,6 +91,6 @@ I have deployed the backend and frontend separate, because with render.com you c
 
 ---
 
-Web Server: MUST CLICK LINK IN ORDER TO MAKE THE ONE BELOW WORK PROPERLY: https://pete-car-notes-api.onrender.com/ (backend- server link)
+Web Server: MUST CLICK LINK IN ORDER TO MAKE THE ONE BELOW WORK PROPERLY: https://zany-car-notes-api.onrender.com (backend- server link)
 
-Static Site: https://pete-car-notes.onrender.com/ (frontend)
+Static Site: https://zany-car-notes.onrender.com (frontend)
