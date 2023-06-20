@@ -7,12 +7,12 @@ const Public = () => {
     <section className="public">
       <header>
         <h1>
-          Welcome to <span className="nowrap">Road Records</span>
+          Welcome to <span className="nowrap">Zany Car Notes</span>
         </h1>
       </header>
       <main className="public__main">
         <p>
-          Located in Beautiful Downtown Foo City, Road Records provides a
+          Located in Beautiful Downtown Foo City, Zany Car Notes provides a
           trained staff ready to meet your car information needs.
         </p>
         <address className="public__addr">
