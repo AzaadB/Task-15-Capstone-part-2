@@ -5,7 +5,7 @@ import { setCredentials } from "../../features/auth/authSlice";
 //importing our setCredentials reducer from the authSlice component(line 4)
 const baseQuery = fetchBaseQuery({
   //defining baseQuery(line 6), we are also seeting our baseQuery equal to fetchBasQuery//
-  baseUrl: "https://zany-car-notes-api.onrender.com",
+  baseUrl: "https://road-records-api.onrender.com",
   credentials: "include",
   /*We are adding credentials and include(line 9), which has our cookie and that cookie has our refresh token that 
   we will send whenever we need it*/
